@@ -1,0 +1,9 @@
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\bin\Debug\QCollector2NinjaConverter.exe.config
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\bin\Debug\QCollector2NinjaConverter.exe
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\bin\Debug\QCollector2NinjaConverter.pdb
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Debug\QCollector2NinjaConverter.csprojResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Debug\QCollector2NinjaConverter.Form1.resources
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Debug\QCollector2NinjaConverter.Properties.Resources.resources
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Debug\QCollector2NinjaConverter.csproj.GenerateResource.Cache
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Debug\QCollector2NinjaConverter.exe
+c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Debug\QCollector2NinjaConverter.pdb
