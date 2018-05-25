@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCollector2NinjaConverter", "QCollector2NinjaConverter\QCollector2NinjaConverter.csproj", "{8708B0ED-3CA2-425A-BCE4-58AB45A1DCF4}"
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCollector2TSConverter", "QCollector2TSConverter\QCollector2TSConverter.csproj", "{8708B0ED-3CA2-425A-BCE4-58AB45A1DCF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -16,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D9EF66-B9F8-4AF5-8E34-2234091E30CD}
 	EndGlobalSection
 EndGlobal

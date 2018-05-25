@@ -1,0 +1,9 @@
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\bin\Debug\QCollector2NinjaConverter.exe.config
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\bin\Debug\QCollector2NinjaConverter.exe
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\bin\Debug\QCollector2NinjaConverter.pdb
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\obj\Debug\QCollector2NinjaConverter.Form1.resources
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\obj\Debug\QCollector2NinjaConverter.Properties.Resources.resources
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\obj\Debug\QCollector2TSConverter.csproj.GenerateResource.Cache
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\obj\Debug\QCollector2TSConverter.csproj.CoreCompileInputs.cache
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\obj\Debug\QCollector2NinjaConverter.exe
+C:\Users\gerry\source\repos\tools\QCollector2TSConverter\QCollector2TSConverter\obj\Debug\QCollector2NinjaConverter.pdb
