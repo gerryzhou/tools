@@ -7,3 +7,13 @@ c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCo
 c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.exe
 c:\users\tim\documents\visual studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.pdb
 C:\Users\Tim\Documents\Visual Studio 2012\Projects\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.csprojResolveAssemblyReference.cache
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\bin\Release\QCollector2NinjaConverter.exe.config
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\bin\Release\QCollector2NinjaConverter.exe
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\bin\Release\QCollector2NinjaConverter.pdb
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.csprojResolveAssemblyReference.cache
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.Form1.resources
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.Properties.Resources.resources
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.csproj.GenerateResource.Cache
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.csproj.CoreCompileInputs.cache
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.exe
+C:\Users\gerry\Source\Repos\tools\QCollector2NinjaConverter.v1.1\QCollector2NinjaConverter\QCollector2NinjaConverter\obj\Release\QCollector2NinjaConverter.pdb

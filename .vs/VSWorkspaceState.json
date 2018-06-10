@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\QCollector2NinjaConverter.v1.1",
     "\\QCollector2NinjaConverter.v1.1\\QCollector2NinjaConverter",
     "\\QCollector2NinjaConverter.v1.1\\QCollector2NinjaConverter\\QCollector2NinjaConverter",
-    "\\QCollector2TSConverter"
+    "\\QCollector2TSConverter",
+    "\\QCollector2TSConverter\\QCollector2TSConverter"
   ],
-  "SelectedNode": "\\QCollector2TSConverter\\QCollector2TSConverter.sln",
+  "SelectedNode": "\\QCollector2NinjaConverter.v1.1\\QCollector2NinjaConverter",
   "PreviewInSolutionExplorer": false
 }
