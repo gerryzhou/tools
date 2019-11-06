@@ -1,0 +1,6 @@
+var docId = document.getElementsByClassName("screener-link-primary");
+var i, str='\r\n';
+for(i=0; i<docId.length; i++){
+    console.log(docId[i].innerHTML + '\r');
+    str = str.concat(docId[i].innerHTML + '\r\n');
+}
