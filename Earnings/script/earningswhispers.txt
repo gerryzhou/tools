@@ -1,0 +1,13 @@
+var docIds = document.getElementsByClassName("cors bmo showconf nwh");
+var docId = document.getElementsByClassName("cor bmo showconf nwh");
+var i, str='\r\n';
+for(i=0; i<docIds.length; i++){
+	var tickerObj = docIds[i].getElementsByClassName("ticker");
+	//console.log(tickerObj[0].innerHTML + '\r');
+    str = str.concat(tickerObj[0].innerHTML + '\r\n');
+}
+for(i=0; i<docId.length; i++){
+	var tickerObj = docId[i].getElementsByClassName("ticker");
+	//console.log(tickerObj[0].innerHTML + '\r');
+    str = str.concat(tickerObj[0].innerHTML + '\r\n');
+}
